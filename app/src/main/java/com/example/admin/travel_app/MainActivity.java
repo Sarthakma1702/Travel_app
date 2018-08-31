@@ -11,6 +11,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private EditText Name;
+    private EditText s_Name;
     private EditText Password;
     private TextView Info;
     private Button Login;
