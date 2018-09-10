@@ -11,6 +11,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private EditText Name, s_Name, Password;
+    private EditText Email;
     private TextView Info;
     private Button Login;
     private int counter = 5;
