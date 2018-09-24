@@ -1,3 +1,4 @@
+
 package com.example.admin.travel_app;
 
 import android.content.Intent;
@@ -12,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText Name, s_Name, Password;
     private EditText Email;
+	private EditText dHAVAL_Email;
     private TextView Info;
     private Button Login;
 	private EditText Add;
